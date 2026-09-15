@@ -1,0 +1,78 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Database
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# Vector database
+# =========================
+chroma/
+vector_db/
+faiss_index/
+*.faiss
+*.index
+
+# =========================
+# Models
+# =========================
+backend/models/
+
+# =========================
+# Runtime data
+# =========================
+backend/uploads/
+backend/data/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Next.js
+# =========================
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/dist/
+
+# =========================
+# Temporary files
+# =========================
+.temp/
+tmp/
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
