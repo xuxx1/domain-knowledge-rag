@@ -13,9 +13,9 @@ AIGC:
 
 基于 RAG 的大模型知识应用系统：领域知识库管理、智能检索问答、知识分析。
 
-## Demo Preview
+## RAG Intelligent Q&A
 
-![首页](frontend-home.png)
+![RAG QA](Intelligent-QA.png)
 
 ## 技术栈
 
