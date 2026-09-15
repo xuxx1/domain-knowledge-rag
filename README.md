@@ -13,6 +13,10 @@ AIGC:
 
 基于 RAG 的大模型知识应用系统：领域知识库管理、智能检索问答、知识分析。
 
+## Demo Preview
+
+![首页](frontend-home.png)
+
 ## 技术栈
 
 - **后端**：Python 3.12 + FastAPI + SQLAlchemy + SQLite
